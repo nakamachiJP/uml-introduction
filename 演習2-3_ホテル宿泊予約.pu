@@ -1,7 +1,10 @@
 @startuml ユースケース図
-rectangle ホテル {
+left to right direction
+actor 利用者 as user #DDDDDD;line:black;line.bold;
+rectangle ホテル宿泊予約 {
 usecase ログイン
 usecase 予約
 }
+user-[bold]->予約
 ログイン <. 予約 : << include >>
 @enduml
