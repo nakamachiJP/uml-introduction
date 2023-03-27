@@ -1,0 +1,25 @@
+@startuml ユースケース図
+left to right direction
+actor 利用者 as user #DDDDDD;line:black;line.bold;
+actor 従業員 as user2 #DDDDDD;line:black;line.bold;
+actor 管理者 as user3 #DDDDDD;line:black;line.bold;
+rectangle ホテル予約システム {
+usecase 会員登録
+usecase キャンペーン
+usecase 空室状況閲覧
+usecase ログイン
+usecase (<u>予約</u>\n拡張点\nキャンペーン期間\n会員登録) as input
+usecase 予約集計
+usecase 空室状況
+user-[bold]->(会員登録)
+user-[bold]->(空室状況閲覧)
+user2-[bold]->(空室状況)
+user3-[bold]->(予約集計)
+}
+(キャンペーン) ..> input : <<extend>>
+(会員登録) ..> input : <<extend>>
+input ..> ログイン : <<extend>>
+予約集計 ..> ログイン : <<extend>>
+空室状況 ..> ログイン : <<extend>>
+user2 <|-- user3
+@enduml
