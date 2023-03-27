@@ -18,8 +18,8 @@ user3-[bold]->(予約集計する)
 }
 (キャンペーン) ..> input : <<extend>>
 (会員登録する) ..> input : <<extend>>
-input ..> ログインする : <<extend>>
-予約集計する ..> ログインする : <<extend>>
-空室状況入力する ..> ログインする : <<extend>>
+input ..> ログインする : <<include>>
+予約集計する ..> ログインする : <<include>>
+空室状況入力する ..> ログインする : <<include>>
 user2 <|-- user3
 @enduml
