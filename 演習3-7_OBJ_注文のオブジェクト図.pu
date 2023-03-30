@@ -1,0 +1,48 @@
+@startuml
+' left to right direction
+object "<u>高橋洋平: 重要顧客リスト</u>" as a {
+
+}
+
+object "<u>高田理恵: 顧客リスト</u>" as b {
+
+}
+
+object "<u>大坪直之: 顧客リスト</u>" as c {
+
+}
+
+object "<u>注文情報1:注文</u>" as d {
+    11月21日
+    2台
+}
+
+object "<u>注文情報2:注文</u>" as e {
+    11月21日
+    1台
+}
+
+object "<u>注文情報3:注文</u>" as f {
+    11月23日
+    1台
+}
+
+object "<u>テレビ:商品リスト</u>" as g {
+    型式V12345
+}
+
+object "<u>冷蔵庫:商品リスト</u>" as h {
+    型式R8765
+}
+
+object "<u>プロジェクタ:商品リスト</u>" as i {
+    型式P1122
+}
+
+a -down- d
+d -- g
+a -down- e
+e -- h
+b -down- f
+f -- h
+@enduml
