@@ -4,8 +4,8 @@ participant "利用者:user" as flor
 participant ":予約画面" as cook
 
 activate flor
-flor -> cook : ログイン
+flor -> cook : ログイン()
 activate cook
-cook -> cook : 調理をする
+cook -> cook : 確認操作()
 activate cook
 @enduml
