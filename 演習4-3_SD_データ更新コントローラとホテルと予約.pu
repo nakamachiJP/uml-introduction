@@ -1,0 +1,14 @@
+@startuml
+hide footbox
+participant ":コントローラ" as flor <<control>>
+participant ":ホテル" as cook <<hotel>>
+participant ":予約" as aa 
+
+activate flor
+flor -> cook : 予約する()
+activate cook
+create aa
+cook -> aa :<<create>>
+cook -> cook : 予約登録()
+activate cook
+@enduml

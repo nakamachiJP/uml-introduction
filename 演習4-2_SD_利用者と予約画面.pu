@@ -1,0 +1,11 @@
+@startuml
+hide footbox
+participant "利用者:user" as flor
+participant ":予約画面" as cook
+
+activate flor
+flor -> cook : ログイン
+activate cook
+cook -> cook : 調理をする
+activate cook
+@enduml
