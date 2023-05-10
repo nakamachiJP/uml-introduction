@@ -1,0 +1,13 @@
+@startuml
+left to right direction
+state 未使用 {
+    state 空室
+    state 予約済み
+}
+
+state 使用中
+予約済み-->空室: キャンセル
+空室-->予約済み: 予約
+使用中-->空室: 使用完了
+予約済み-->使用中: 使用
+@enduml
