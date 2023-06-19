@@ -1,4 +1,4 @@
-<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="401px" height="351px" viewBox="-0.5 -0.5 401 351" content="&lt;mxfile&gt;&lt;diagram id=&quot;zQmqQVXIBhUnwixZhEaw&quot; name=&quot;ページ1&quot;&gt;7VjLjpswFP0aS+0OcCCwhJSZbipVyqLLygN3gAowMiaPfn1tMCFg2kEZ1JlU3STXxy/uOcfGBuFdcXpkpEq/0BhyZBnxCeFPyLLsrSN+JXDugI3pdUDCsriDzAHYZz9BgYZCmyyGetSQU5rzrBqDES1LiPgII4zR47jZM83Hs1YkAQ3YRyTX0W9ZzNMOdW1jwD9DlqT9zKahagrSN1ZAnZKYHq8gHCK8Y5TyLipOO8gldz0vXb+H39ReHoxByZd0sLoOB5I3KjdkObnoGjwxESUy0hHRW8MqUtc6WpICVKb83NPHaFPGIJ/AEE2OacZhX5FI1h6FXwSW8iIXJbOdfZqRSvIAjMPpClIZPgItgLOzaKJqN4rs87h4HKQzez3SK9k8hRHlluQy8ECoCBSn8/xudH5DjFwL+Zcg6AOnDTAKsApc9wMKt8gPkW/KQDyQKxq5yBWB/fFeecUr8Gr/Fd9OUcI5y54a/u4sbToLub/sRK8h33m1qW3xh3yvNfUG+e77NfViZtdw9XY1V8/7N4aKcFZIcrS654ZlOpqAIJ/NrIRkZvgCCvrm+mHrtl3JtFcQ0J1ZGa3FvQdp+iBEnkCcdh3YEvENFJh3y9kanvdu8nzNm1jk+3259+vm6Yc8C+oVEWVvv6FPJbC2S31rrSBCf7AeGdeRm7Q4cwgHB6707t1ytIZPTVOnaEqI2Cx9eb0QpZKWsJAAiEe3DT39q/Tsmex6jEFOeHYY31HmUlYzfKWZfBH07FrumN3p8bemDYtAdbq+UkzGwc6fx+GEJcC1cVr+L0kvk2Tu9vIvS4Kna32pJi9pu6Im+L8mC9fJ5oWBbhZFFIcvCF3z4TMMDn8B&lt;/diagram&gt;&lt;/mxfile&gt;">
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="611px" height="351px" viewBox="-0.5 -0.5 611 351" content="&lt;mxfile&gt;&lt;diagram id=&quot;zQmqQVXIBhUnwixZhEaw&quot; name=&quot;ページ1&quot;&gt;7VhNj5swEP01ltpbjAOBI2TZ7aVSpRx6rLzBC1SAkTH56K+vDSYEzHZR1t0kVS/J+PmLefM8eABonR+eGC6TrzQiGbAW0QGgB2BZ9soRvxI4tsASei0QszRqIdgDm/QXUeBCoXUakWowkFOa8bQcgltaFGTLBxhmjO6Hw15oNty1xDHRgM0WZzr6PY140qKuvejxLySNk25nuFA9Oe4GK6BKcET3ZxAKAVozSnlr5Yc1ySR3HS/tvMdXek8PxkjB50yw2gk7nNXKN2A5mZgaPDNhxdLSETFbw0pcVTpa4JwoT/mxo4/RuoiIfIKFGLJPUk42Jd7K3r3Qi8ASnmeiBZvdxx4pJ3eEcXI4g5SHT4TmhLOjGKJ6l4rs47C570MHu3gkZ2HzFIaVWuLTwj2hwlCcTvO71PkNEXAt4J+MoDOcxkAgQMpw3U8gXAE/BD6UhnggVwxygSsM+/O98ooM8Gp/iG7HKOacpc81vzlJQ2cm96dM9B7ynXeL2hZ/wPcaUS+B796uqGcza0LVK2OqntZvRErMWS7J0fpeapbqaEwE+WziJMQTy+ckp1ePH7Iuy0rQNhBAd+JkNBL3HqXogxB4AnGac2BLxF+AAN4tZyY0712k+YrXkfD3x3ztV/XzT3kX1Du2lF0/oY9DYK3m6tYyEITuYj0QriOTtLhzCAUHrtTu3XJkQqcQ6hSNCRHJ0pflhWgVtCAzCSDRoNrQ3T9zz57wrsMYyTBPd8MaZcpltcM3msoXQceu5Q7ZHV9/K1qzLVGTzkuK0TrI+fM6HLOYcG2dhv+T0/NCMlW9/MshQeOzPjcmb8XWYEzQ/5jMPCfLNxYyGBS9DDVVmGvZeyJ2ryZ0G11274DQREKfqCHFO8+zgdcUJr64uBm5ml2FIiOvPL3Qu0nZfLBuJqo0eZN/aIrdW9XN3xSOaPZfLNv01H/2ReFv&lt;/diagram&gt;&lt;/mxfile&gt;">
     <defs/>
     <g>
         <rect x="0" y="0" width="120" height="90" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
@@ -176,6 +176,74 @@
         <path d="M 240 50 L 320 50" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
         <path d="M 240 280 L 240 50" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
         <path d="M 240 280 L 300 280" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <rect x="490" y="0" width="120" height="110" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 55px; margin-left: 491px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                name
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="550" y="59" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    name
+                </text>
+            </switch>
+        </g>
+        <rect x="490" y="0" width="120" height="30" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 15px; margin-left: 491px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                教科
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="550" y="19" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    教科
+                </text>
+            </switch>
+        </g>
+        <rect x="490" y="200" width="120" height="110" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 255px; margin-left: 491px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                name
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="550" y="259" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    name
+                </text>
+            </switch>
+        </g>
+        <rect x="490" y="200" width="120" height="30" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 215px; margin-left: 491px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                学科
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="550" y="219" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    学科
+                </text>
+            </switch>
+        </g>
     </g>
     <switch>
         <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
